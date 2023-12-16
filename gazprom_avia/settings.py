@@ -38,8 +38,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "avia_api.apps.AviaApiConfig",
-    "rest_framework",
-    "corsheaders",
+    "rest_framework"
 ]
 
 MIDDLEWARE = [
